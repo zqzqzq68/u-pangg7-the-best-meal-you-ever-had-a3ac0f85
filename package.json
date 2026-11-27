@@ -1,0 +1,1 @@
+{"description":"A program that writes one sentence, at most 200 characters, about the best meal ever had, to /output/entry.txt.","license":"MIT","main":"main.ts","name":"u-pangg7-the-best-meal-you-ever-had-a3ac0f85","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
